@@ -1,7 +1,10 @@
 body
 {
+
   font-family: courier;
-  color: blue;
+  color: #333;
+
+
   text-align: left;
   font-size: 16px;
   padding: 0;
@@ -19,12 +22,9 @@ body
 }
 #cabecera tagline
 {
-<<<<<<< HEAD
+
   padding: 0 0 0 1em;
-=======
-  padding: 0 0 0
-    ;
->>>>>>> cabecera
+
   font-weight: normal;
   font-size: 1.8em;
 }
