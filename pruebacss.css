@@ -1,7 +1,7 @@
 body
 {
   font-family: courier;
-  color: #333;
+  color: blue;
   text-align: left;
   font-size: 16px;
   padding: 0;
@@ -22,7 +22,7 @@ body
 <<<<<<< HEAD
   padding: 0 0 0 1em;
 =======
-  padding: 0 0 0 
+  padding: 0 0 0
     ;
 >>>>>>> cabecera
   font-weight: normal;
