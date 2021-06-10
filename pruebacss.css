@@ -19,7 +19,12 @@ body
 }
 #cabecera tagline
 {
+<<<<<<< HEAD
   padding: 0 0 0 1em;
+=======
+  padding: 0 0 0 
+    ;
+>>>>>>> cabecera
   font-weight: normal;
   font-size: 1.8em;
 }
