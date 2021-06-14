@@ -1,5 +1,5 @@
-# suMMerCode in Git Hub and Git
-Un blo creado por Berthy para la realizacion de pruebas de introduccion a GitHub y Git asumiendo el rol de iniciacion en desarollo.
+# suMMerCode in Git Hub and Git :shipit:
+Un MiniBlog creado por Berthy para la realizacion de pruebas de introduccion a GitHub y Git asumiendo el rol de iniciacion en desarollo.
 
 ## En este blog solo encontraras pruebas como:
 * Iniciacion de html
