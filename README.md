@@ -1,6 +1,6 @@
 ###Images
 Imagen:
-![](https://github.com/suMMerBerthy/Prueba2/blob/main/imagenes/dragon.png)
+![](![](https://github.com/suMMerBerthy/Prueba2/blob/main/imagenes/dragon.png))
 # suMMerCode in Git Hub and Git
 Un MiniBlog creado por Berthy para la realizacion de pruebas de introduccion a GitHub y Git asumiendo el rol de iniciacion en desarollo.
 
