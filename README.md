@@ -1,4 +1,6 @@
 # suMMerCode in Git Hub and Git
+![](https://github.com/suMMerBerthy/Prueba2/blob/main/imagenes/dragon.png)
+
 Un MiniBlog creado por Berthy para la realizacion de pruebas de introduccion a GitHub y Git asumiendo el rol de iniciacion en desarollo.
 
 ## En este blog solo encontraras pruebas como:
