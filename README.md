@@ -1,12 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Blogpost
-Blogpost prueba git and github
-=======
-# BlogPrueba
-preuba3
->>>>>>> f73eae1980cb21ce1c1e42dd9b2b657596bb2fd2
-=======
-# Prueba2
-preubadefinitiva
->>>>>>> 57296802c993279c309eb09190a09fc034eabbd3
+# suMMerCode in Git Hub and Git
+Un blo creado por Berthy para la realizacion de pruebas de introduccion a GitHub y Git asumiendo el rol de iniciacion en desarollo.
+
+## En este blog solo encontraras pruebas como:
+* Iniciacion de html
+* Iniciacion en Git
+* Iniciacion en GitHub
+* Comandos de introduccion e intermedio en git y github
+* Realizacion en procesos de desarollo usando este respositorio remoto
+* Y este README realizado en ATOM para la muestra en github
+
+## BysuMMer
+* Hasta pronto con las nuevas tecnologias :D
