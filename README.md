@@ -11,14 +11,7 @@ Un MiniBlog creado por Berthy para la realizacion de pruebas de introduccion a G
 * Comandos de introduccion e intermedio en git y github
 * Realizacion en procesos de desarollo usando este respositorio remoto
 * Y este README realizado en ATOM para la muestra en github
-<<<<<<< HEAD
-* CREADO PRO BERTHY 
 
-=======
-* CREADO PRO BERTHY
-* INCLUYE GIT
-* PARA TODOS
->>>>>>> readme
 ### BysuMMer
 * Hasta pronto con las nuevas tecnologias :D
 
