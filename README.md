@@ -13,6 +13,7 @@ Un MiniBlog creado por Berthy para la realizacion de pruebas de introduccion a G
 * Y este README realizado en ATOM para la muestra en github
 * CREADO PRO BERTHY
 * INCLUYE GIT
+* PARA TODOS
 ### BysuMMer
 * Hasta pronto con las nuevas tecnologias :D
 
